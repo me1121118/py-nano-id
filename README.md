@@ -42,7 +42,7 @@ print(id_short)  # 10 characters
 
 I am an independent developer and student building open-source developer productivity tools. If this nano ID generator simplified your primary keys, please consider supporting my studies:
 
-- ☕ **Buy Me a Coffee:** [ko-fi.com/me1121118](https://ko-fi.com/)
+- ☕ **Buy Me a Coffee:** [buymeacoffee.com/kcidi4148](https://buymeacoffee.com/kcidi4148)
 - ⭐ **Star this repository** on GitHub!
 
 ---
